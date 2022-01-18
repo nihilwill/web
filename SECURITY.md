@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This project is currently in pre-alpha 
+This project is currently in pre-alpha.
 
 | Version | Supported |
 | ------- | --------- |
